@@ -1,2 +1,1 @@
-# Data-Driven-HR-Analytics-for-Attrition-and-Performance
-Employee attrition and performance are key metrics in HRM. Making informed decisions in these areas requires clear insights from data. By harnessing Power BI for in-depth HR analytics, this project supports better decision-making regarding employee attrition and performance, ultimately enhancing HR functions and strategies within the business. 
+# Power BI
